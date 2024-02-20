@@ -1,0 +1,18 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "idf.adapterTargetName": "esp32s3",
+  "idf.openOcdConfigs": [
+    "board/esp32s3-bridge.cfg"
+  ],
+  "idf.port": "/dev/ttyACM0",
+  "idf.flashType": "UART",
+  "files.associations": {
+    "disp_driver.h": "c",
+    "lv_demos.h": "c",
+    "lv_port_disp.h": "c",
+    "lv_demo_music.h": "c",
+    "sdkconfig.h": "c",
+    "task.h": "c",
+    "lv_port_indev.h": "c"
+  }
+}
